@@ -13,7 +13,7 @@
 - The Project aim to develop DBMS, that will enable users to
   store and retrieve the data from Hard-disk.
 
-- Program was created in 2021 by Assem Gamal && Ahmed Abdallah
+- Program was created in 2021 by Assem Gamal
   for ITI intake "41" Bash script course.
 
 - Program is based on jq - Command-line tool for parsing JSON.
