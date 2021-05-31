@@ -1,0 +1,13 @@
+{
+  "tableName": "why",
+  "colCount": 2,
+  "pkey": "id",
+  "colNames": [
+    "id",
+    "name"
+  ],
+  "colTypes": [
+    "int",
+    "str"
+  ]
+}

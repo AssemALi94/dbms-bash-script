@@ -1,0 +1,16 @@
+{
+  "tableName": "student",
+  "colCount": 3,
+  "pkey": "id",
+  "colNames": [
+    "id",
+    "name",
+    "age"
+  ],
+  "colTypes": [
+    "int",
+    "str",
+    "int"
+  ],
+  "lastPkey": 200
+}

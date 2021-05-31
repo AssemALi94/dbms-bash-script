@@ -1,0 +1,18 @@
+{
+  "tableName": "dd",
+  "colCount": 4,
+  "pkey": "id",
+  "colNames": [
+    "id",
+    "name",
+    "age",
+    "mail"
+  ],
+  "colTypes": [
+    "int",
+    "str",
+    "int",
+    "str"
+  ],
+  "lastPkey": 200
+}
